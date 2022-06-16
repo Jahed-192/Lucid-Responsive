@@ -1,0 +1,224 @@
+/* @media (max-width:1440px){
+    .header {
+        min-height: 100vh;
+    }
+} */
+
+
+
+
+
+@media (max-width:768px){
+    .btn-feature {
+    
+        margin-left: 0px;
+    }
+    .header P {
+        
+        margin-bottom: 10px;
+    }
+    .btf_cnt {
+        padding-top: 0px;
+    } 
+    .like_cnt {
+        display: block;
+    }
+    .like_btn a {
+        margin: 0px 0px;
+    }
+    .like_cnt p {
+        font-size: 24px;      
+    }
+    .like_cnt a {
+     
+        font-size: 25px;
+        
+    }  
+    .iphn{
+        margin-top: 90px;
+    }
+    .like_btn {
+        display: flex;
+        justify-content: center;
+        margin-left: 0px;
+        margin-top: 13px;
+       
+    }
+     .btn-Dwnld {
+        padding: 10px 14px;
+        font-size: 14px;
+        margin-left: 14px;
+    }
+    .btn-feature {
+        padding: 10px 14px;
+        margin-left: 0px;
+        font-size: 14px;
+    }
+    .round_box h1 { 
+        font-size: 28px;    
+    }
+    .message {     
+        margin-left: 110px;   
+    }
+}
+
+@media (max-width:575px){
+    .nav-item {
+        padding: 0px;
+        margin-bottom: 5px;
+        display: inline-block;
+    }
+    .navbar-nav{
+        text-align: center;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        display: inline-block;
+    }
+    .mbl, .col_none {
+
+        display: none;
+    }
+    .lg_phone{
+        display: inherit;
+    }
+    .height {
+        min-height: 90vh;
+        padding-bottom: 50px;
+    }
+    .cnt h2 {
+        padding-bottom: 2px;
+    }
+    .cnt h1 {
+        padding-bottom: 20px;
+        
+    }
+    .margin_b{
+        padding-bottom: 15px;
+    }
+    .btf_cnt {
+        padding-top: 5px;
+    }
+    .testimonial p {
+        text-align: center;
+    }
+    .client {
+        padding-bottom: 0px;
+        justify-content: center;
+    }
+    .like_cnt {
+        display: flex;
+        justify-content: center;
+        padding-bottom: 15px;
+    }
+    .like_btn {
+        display: flex;
+        justify-content: center;
+        margin-left: 0px;
+       
+    }
+    .like_cnt p {
+        font-size: 24px;      
+    }
+    .like_cnt a {
+     
+        font-size: 25px;
+        
+    }
+    .phn p {
+    
+        font-size: 14px;
+    }
+    
+    .frm { 
+        top: 94%;
+        width: 90%;
+       
+    }
+    .remove{
+        padding: 0 !important;
+    }
+    .contuct_us {
+     
+        padding-bottom: 350px;
+    }
+}
+@media (max-width:425px){
+
+    .cntr{
+        text-align: center !important;
+    }
+    .btn-Dwnld {
+        font-size: 15px;
+    }
+    .btn-feature {
+        font-size: 15px;
+    }
+    .phn p {
+        font-size: 12px;
+    }
+    .like_cnt a {
+        font-size: 21px;
+    }
+    .like_cnt p {
+        font-size: 20px;
+    }
+
+}
+
+@media (max-width:375px){
+    .btn-Dwnld {
+        padding: 10px 14px;
+        font-size: 14px;
+    }
+    .btn-feature {
+        padding: 10px 14px;
+        margin-left: 0px;
+        font-size: 14px;
+    }
+    .cntr{
+        text-align: center;
+    }
+    .phn p {
+        font-size: 10px;
+    }
+    .like_cnt a {
+        font-size: 19px;
+    }
+    .like_cnt p {
+        font-size: 18px;
+    }
+    .message {
+      
+        margin-left: 150px;
+        padding: 13px 24px;
+       
+    }
+
+
+
+}
+
+
+@media (max-width:320px){
+    .btn-Dwnld {
+        padding: 10px 14px;
+        font-size: 14px;
+    }
+    .btn-feature {
+        padding: 10px 14px;
+        margin-left: 0px;
+        font-size: 14px;
+    }
+    .cntr{
+        text-align: center !important;
+    }
+    .phn p {
+        font-size: 8px;
+    }
+    .message {
+      
+        margin-left: 106px;
+        padding: 13px 24px;
+       
+    }
+}
